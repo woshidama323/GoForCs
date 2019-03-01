@@ -1,6 +1,6 @@
 package main
 import(
-	"tree"
+	"github.com/woshidama323/GoForCs/tree"
 	"fmt"
 )
 
